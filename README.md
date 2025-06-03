@@ -1,2 +1,3 @@
 # tech_demo
-This is my first Github code
+This is my first Git Repository..
+Author-Saurabh Shukla
